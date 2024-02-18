@@ -171,7 +171,8 @@ a {
 }
 
 .nav-link {
-  font-size: 1.25rem;
+  font-size: 1.85rem;
+  font-weight: bolder;
   padding-top: 12px;
   padding-bottom: 12px;
 }
