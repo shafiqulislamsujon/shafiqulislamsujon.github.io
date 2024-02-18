@@ -50,15 +50,17 @@ a {
 }
 
 .tm-intro {
-  max-width: 500px;
+  max-width: 700px;
   width: 100%;
-  padding: 55px;
+  padding: 25px 10px 15px 10px;
   margin-right: 0;
   margin-left: auto;
+  text-align: justify;
 }
 
-.tm-section-title {
-  font-size: 1.6rem;
+.tm-section-title  {
+  font-size: 1.85rem;
+  font-weight: bolder;
 }
 
 .parallax-window {
