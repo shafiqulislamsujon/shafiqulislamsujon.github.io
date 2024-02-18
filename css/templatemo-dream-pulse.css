@@ -8,15 +8,15 @@ https://templatemo.com/tm-536-dream-pulse
 
 body {
   font-family: "Times New Roman", Times, serif;
-  font-size: 18px;
-  font-weight: 400;
+  font-size: 1.85rem;
+  font-weight: 500;
   overflow-x: hidden;
   color: #707172;
   background-color: #666;
 }
 
 p {
-  line-height: 2;
+  line-height: 3rem;
 }
 
 a {
