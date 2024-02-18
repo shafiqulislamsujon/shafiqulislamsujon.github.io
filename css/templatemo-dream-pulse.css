@@ -239,7 +239,8 @@ a {
 }
 
 .tm-section-half {
-  padding: 55px;
+  padding: 25px 10px 25px 10px;
+  
 }
 
 .tm-section-icon {
@@ -249,6 +250,7 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin: auto auto;
 }
 
 /* Our Work */
