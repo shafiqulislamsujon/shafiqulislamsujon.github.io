@@ -50,16 +50,16 @@ a {
 }
 
 .tm-intro {
-  max-width: 700px;
+  max-width: 100%;
   width: 100%;
   padding: 25px 10px 15px 10px;
   margin-right: 0;
   margin-left: auto;
-  text-align: justify;
+  text-align: left;
 }
 
 .tm-section-title  {
-  font-size: 1.85rem;
+  font-size: 6rem;
   font-weight: bolder;
 }
 
@@ -283,12 +283,20 @@ a {
   .tm-gallery-wrap {
     max-width: 520px;
   }
+  .tm-section-title  {
+  font-size: 3rem;
+  font-weight: bolder;
+}
 }
 
 @media (max-width: 480px) {
   .tm-gallery-wrap {
     max-width: 260px;
   }
+  .tm-section-title  {
+  font-size: 2rem;
+  font-weight: bolder;
+}
 }
 
 .tm-gallery-item {
